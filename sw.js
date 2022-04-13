@@ -1,3 +1,5 @@
+console.log("accede");
+
 var appShellFiles = [
     'pwaa/index.html',
     'pwaa/article-details.html',
